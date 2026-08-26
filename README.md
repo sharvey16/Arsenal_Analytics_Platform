@@ -107,7 +107,7 @@ Season KPI overview:
 - Goals Conceded
 - Goal Difference
 
-Screenshots/executive_summary.png
+Screenshots/executive_summary.PNG
 
 ### Home vs Away Performance
 
