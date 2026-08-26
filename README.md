@@ -92,7 +92,7 @@ Primary datasets used:
 
 Project overview, technology stack, data sources, and season highlights.
 
-![Landing Page](docs/Screenshots/landing_page)
+Screenshots/landing_page.png
 
 ### Executive Summary
 
@@ -107,7 +107,7 @@ Season KPI overview:
 - Goals Conceded
 - Goal Difference
 
-![Executive Summary](docs/Screenshots/executive_summary.png)
+Screenshots/executive_summary.png
 
 ### Home vs Away Performance
 
@@ -117,7 +117,7 @@ Comparison of:
 - Goals Scored
 - Goals Conceded
 
-![Home vs Away](docs/Screenshots/home_away.png)
+Screenshots/home_away.png
 
 ### Player Performance Analysis
 
@@ -128,7 +128,7 @@ Player leaderboards for:
 - Shots
 - xG
 
-![Player Performance](docs/Screenshots/player_performance.png)
+Screenshots/player_performance.png
 
 ### Finishing Analytics
 
@@ -137,7 +137,7 @@ Advanced performance metrics:
 - Goals vs xG
 - Shot Efficiency
 
-![Finishing Analytics](docs/Screenshots/finishing_anayltics.png)
+Screenshots/finishing_analytics.png
 
 ---
 
