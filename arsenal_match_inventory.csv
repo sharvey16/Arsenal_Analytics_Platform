@@ -1,0 +1,39 @@
+match_date,home_team_name,away_team_name,home_score,away_score,match_id,arsenal_goals,goals_conceded,result,points,month,location
+2015-09-19,Chelsea,Arsenal,2,0,3754217,0,2,Loss,0,September,Away
+2015-12-13,Aston Villa,Arsenal,0,2,3754117,2,0,Win,3,December,Away
+2015-12-21,Arsenal,Manchester City,2,1,3754296,2,1,Win,3,December,Home
+2015-10-31,Swansea City,Arsenal,0,3,3753983,3,0,Win,3,October,Away
+2015-12-05,Arsenal,Sunderland,3,1,3754160,3,1,Win,3,December,Home
+2015-08-24,Arsenal,Liverpool,0,0,3754129,0,0,Draw,1,August,Home
+2015-12-26,Southampton,Arsenal,4,0,3754309,0,4,Loss,0,December,Away
+2016-05-15,Arsenal,Aston Villa,4,0,3754041,4,0,Win,3,May,Home
+2015-11-29,Norwich City,Arsenal,1,1,3754038,1,1,Draw,1,November,Away
+2015-10-17,Watford,Arsenal,0,3,3753999,3,0,Win,3,October,Away
+2015-09-26,Leicester City,Arsenal,2,5,3754174,5,2,Win,3,September,Away
+2015-10-04,Arsenal,Manchester United,3,0,3754171,3,0,Win,3,October,Home
+2015-10-24,Arsenal,Everton,2,1,3754126,2,1,Win,3,October,Home
+2015-08-29,Newcastle United,Arsenal,0,1,3754205,1,0,Win,3,August,Away
+2015-11-21,West Bromwich Albion,Arsenal,2,1,3754301,1,2,Loss,0,November,Away
+2015-09-12,Arsenal,Stoke City,2,0,3754240,2,0,Win,3,September,Home
+2015-11-08,Arsenal,Tottenham Hotspur,1,1,3754265,1,1,Draw,1,November,Home
+2015-08-16,Crystal Palace,Arsenal,1,2,3754312,2,1,Win,3,August,Away
+2015-12-28,Arsenal,AFC Bournemouth,2,0,3754173,2,0,Win,3,December,Home
+2016-03-02,Arsenal,Swansea City,1,2,3753976,1,2,Loss,0,March,Home
+2016-03-19,Everton,Arsenal,0,2,3753980,2,0,Win,3,March,Away
+2016-04-24,Sunderland,Arsenal,0,0,3753990,0,0,Draw,1,April,Away
+2016-04-17,Arsenal,Crystal Palace,1,1,3754009,1,1,Draw,1,April,Home
+2016-01-02,Arsenal,Newcastle United,1,0,3754069,1,0,Win,3,January,Home
+2016-01-24,Arsenal,Chelsea,0,1,3754111,0,1,Loss,0,January,Home
+2016-04-02,Arsenal,Watford,4,0,3754118,4,0,Win,3,April,Home
+2016-04-30,Arsenal,Norwich City,1,0,3754184,1,0,Win,3,April,Home
+2016-02-02,Arsenal,Southampton,0,0,3754201,0,0,Draw,1,February,Home
+2016-01-17,Stoke City,Arsenal,0,0,3754202,0,0,Draw,1,January,Away
+2016-02-28,Manchester United,Arsenal,3,2,3754239,2,3,Loss,0,February,Away
+2016-04-09,West Ham United,Arsenal,3,3,3754241,3,3,Draw,1,April,Away
+2016-02-07,AFC Bournemouth,Arsenal,0,2,3754253,2,0,Win,3,February,Away
+2016-02-14,Arsenal,Leicester City,2,1,3754261,2,1,Win,3,February,Home
+2016-04-21,Arsenal,West Bromwich Albion,2,0,3754284,2,0,Win,3,April,Home
+2016-01-13,Liverpool,Arsenal,3,3,3754305,3,3,Draw,1,January,Away
+2016-05-08,Manchester City,Arsenal,2,2,3754314,2,2,Draw,1,May,Away
+2016-03-05,Tottenham Hotspur,Arsenal,2,2,3754318,2,2,Draw,1,March,Away
+2015-08-09,Arsenal,West Ham United,0,2,3754141,0,2,Loss,0,August,Home
