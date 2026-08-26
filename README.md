@@ -92,7 +92,7 @@ Primary datasets used:
 
 Project overview, technology stack, data sources, and season highlights.
 
-Screenshots/landing_page.png
+![Landing Page](Screenshots/landing_page.png)
 
 ### Executive Summary
 
